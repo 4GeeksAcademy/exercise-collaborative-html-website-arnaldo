@@ -1,4 +1,4 @@
-# Sitio Web colaborativo (Git collaboration)
+# Sitio Web colaborativo (Colaborand en GIT)
 
 Practica tus habilidades en GIT mientras desarrollas un típico sitio web.
 
